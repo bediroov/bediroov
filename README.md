@@ -36,6 +36,5 @@
 ---
 
 ## 📫 Contact Me
-📧 bedirov@example.com  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINK-HERE) *(əgər varsa)*
+📧hafizbedirov99@gmail.com  
 
